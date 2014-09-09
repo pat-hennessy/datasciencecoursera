@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repository containing work for the Coursera Data Science Specialization
+Repository containing work for the Coursera Data Science Specialization.
